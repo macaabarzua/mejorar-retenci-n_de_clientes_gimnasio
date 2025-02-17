@@ -1,7 +1,7 @@
 # Mejorar la retención de clientes en "Model Fitness"
 
 **Descripción del Proyecto**  
-Este proyecto tiene como objetivo pronosticar los factores determianntes en la pérdida de clientes del gimnasio "Model Fitness", para que posteriormente sea posible elaborar una estrategia de retención de clientes.  
+Este proyecto tiene como objetivo pronosticar los factores determinantes en la pérdida de clientes del gimnasio "Model Fitness", para que posteriormente sea posible elaborar una estrategia de retención de clientes.  
 Utilicé algortimos de Machine Learning para elaborar un modelo predictivo que permita estimar la cancenlación de la suscripción de sus usuarios.  
 
 **Motivación**  
